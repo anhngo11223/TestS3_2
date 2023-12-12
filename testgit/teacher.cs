@@ -8,5 +8,6 @@ namespace testgit
 {
     internal class teacher
     {
+        int a = 10;
     }
 }
